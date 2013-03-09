@@ -1,0 +1,30 @@
+TODO:
+
+Make functions to analyze the accuracy in the simulator (how energy is conserved, aso...)
+
+Make all methods less coupled with AWT.
+
+Make a SWING demo (low priority)
+
+Write documentation on the methods(!)
+
+Make a few more and somewhat more exotic RigidBodies. Red from a file (done), and letters (low priority)
+
+Redesign the RigidBody-class by moving some methods to another (super-)class; RigidPolygon.
+
+Grep after "TODO" in all .java-files and correct stuff.
+
+
+DONE:
+
+Make a comined add/mul -method in State too save some memory (low priority)
+Move the integrators outside RigidBody.
+Make a screentransform so that one pixel dont correspond to one meter(!!)
+Put in the angular momentum equations
+Collision detection
+Bounding sphere check
+Make a nice AWT demo.
+Implement a feature so that bodies can be "dragged" around (considered cool)
+Draw filled polygons instead of wireframe
+Make the simulation run in realtime using the system clock (low priority)
+

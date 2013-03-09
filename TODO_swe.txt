@@ -1,0 +1,33 @@
+Göra funktioner som evaulerar nogranheten i systemet (energins bevarande......)
+
+-------------------------------------------------------------------------------
+
+x Göra en kombinerad add/mul metod i State för att spara lite minne. (låg
+prioritet)
+
+x Göra så att integratorera ligger utanför RigidBody.
+x Göra en skärmtransformation så att en pixel inte är en meter stor (!)
+x Lägga in beräkningar för moment.
+x Göra så att kollisioner detekteras. 
+x Göra klart de krafter som verkar under kollisioner..
+x Lägga till BoundingSphere koll..
+x Fixa så att bara _en_ kraft läggs till för varje krock...
+x Göra några klasser för att få ett shysst demo för AWT.
+x Samt göra så man kan "dra" omkring objekt. (anses häftigt)
+x Göra så de ritas ut som fyllda polygon. (låg prioritet)
+x Göra huvudprogramet så att simulerad tid = verklig tid. (låg prioritet)
+
+------------------------------------------------------------------------------
+
+Göra alla metoder mer fristående från AWT.
+
+Göra ett SWING demo. (låg prioritet)
+
+Skriva på funtkionshuvuden.
+
+Göra lite fler och mer exotiska RigidBody:sar.. tex: från fil, bokstäver.(låg prioritet)
+
+Designa om RigidBody-klassen genom att flytta ut några metoder
+till en annan klass: RigidPolygon..
+
+Grepa efter "TODO" i alla .java filer för att se om någon smågrej behöver göras.
